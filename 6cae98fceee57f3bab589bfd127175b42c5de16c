@@ -1,0 +1,1 @@
+{"jobID":"92f6832b-14e5-8956-2b8b-ffada8257b6d","spec":{"type":"policy","cause":{"Message":"stay on arm for pik3s","User":"aboutflying \u003cwdreynolds@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"stay on arm for pik3s","locked_user":"aboutflying \u003cwdreynolds@gmail.com\u003e"},"remove":{}}}},"result":null}
