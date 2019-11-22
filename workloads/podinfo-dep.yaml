@@ -10,6 +10,9 @@ metadata:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: regex:^3.10.*
     fluxcd.io/tag.podinfod: semver:~2.1
+    fluxcd.io/locked_user: aboutflying <wdreynolds@gmail.com>
+    fluxcd.io/locked: 'true'
+    fluxcd.io/locked_msg: stay on arm for pik3s
 spec:
   strategy:
     rollingUpdate:
